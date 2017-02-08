@@ -11,8 +11,6 @@ Thanks for checking it out
 	
 	cd Authentication/tutorial
 	python manage.py runserver ip:port
- then,
- 	Open index.html in browser
 
 Hope these will help you Thankyou.  
 	
