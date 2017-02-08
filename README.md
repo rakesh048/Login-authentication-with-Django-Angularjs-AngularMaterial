@@ -9,7 +9,7 @@ Thanks for checking it out
 	Install Mysql given steps in mysql_setup.txt
 	(for more help - https://docs.djangoproject.com/en/1.10/intro/install/) 
 	
-	cd Authentication/tutorial
+	cd AuthProject/tutorial
 	python manage.py runserver ip:port
 
 Hope these will help you Thankyou.  
